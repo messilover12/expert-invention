@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-05 07:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-05 06:09:43 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-05 07:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 07:17:56 +0000"
     },
     "done": true
   },
@@ -110,6 +122,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-05 06:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-05 07:17:56 +0000"
     },
     "done": true
   },
@@ -287,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-05 07:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 06:18:15 +0000"
@@ -309,7 +333,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-05 06:46:22 +0000",
       "apple": "2024-12-05 06:28:33 +0000",
-      "melon": "2024-12-05 07:08:30 +0000"
+      "melon": "2024-12-05 07:08:30 +0000",
+      "carrot": "2024-12-05 07:17:24 +0000"
     },
     "done": false
   },
@@ -481,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2024-12-05 07:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2024-12-05 07:12:17 +0000"
@@ -628,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-05 07:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-05 06:28:33 +0000"
@@ -763,6 +800,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 06:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-05 07:17:09 +0000"
     },
     "done": true
   },
@@ -949,6 +992,18 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-05 07:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-05 07:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-05 07:22:20 +0000"
     },
     "done": true
   },
