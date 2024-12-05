@@ -2114,3 +2114,53 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:37:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
 [19:37:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
 [19:37:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[19:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was slain by papucarnicero
+[19:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was not rescued in time
+[19:43:45] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:43:45] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:43:45] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:43:45] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:43:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[19:43:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[19:43:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[19:43:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
+[19:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> muchachos
+[19:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> toy en bolivia
+[19:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <papucarnicero> cagaste
+[19:44:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <papucarnicero> veni
+[19:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> escucho cosas
+[19:44:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> tengo mello
+[19:44:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <papucarnicero> es de noche
+[19:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> zi
+[19:45:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was slain by Incomplete Form
+[19:45:51] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[19:45:51] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[19:46:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
+[19:46:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
+[19:46:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
+[19:46:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[19:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> VUUUUUELVAAAAN
+[19:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was slain by Adapted Longarms
+[19:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was slain by Adapted Longarms
+[19:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was not rescued in time
+[19:49:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:49:44] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:49:44] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:49:45] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:49:45] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Adapted Longarms
+[19:49:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 9d55de62-9b71-3854-be18-79c27bdbad0e timed out
+[19:49:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player Zoro
+[19:49:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to Zoro
+[19:49:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[19:50:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was slain by Adapted Longarms
+[19:50:26] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:50:26] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:50:29] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:50:29] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:50:32] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:50:32] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:50:36] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[19:50:36] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[19:50:36] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[19:50:36] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
