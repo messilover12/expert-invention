@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-12-05 18:55:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-05 18:13:59 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-05 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 18:50:54 +0000"
     },
     "done": true
   },
@@ -290,6 +302,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 18:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 18:51:03 +0000"
     },
     "done": true
   },
@@ -393,6 +411,7 @@
     "criteria": {
       "forest": "2024-12-05 18:15:11 +0000",
       "forest_hills": "2024-12-05 18:15:17 +0000",
+      "savanna": "2024-12-05 18:53:08 +0000",
       "taiga": "2024-12-05 18:11:56 +0000",
       "river": "2024-12-05 18:14:10 +0000"
     },
@@ -413,6 +432,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-05 18:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 18:51:03 +0000"
     },
     "done": true
   },
@@ -437,6 +462,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2024-12-05 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-05 18:55:11 +0000"
     },
     "done": true
   },
@@ -536,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 18:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-05 18:35:59 +0000"
@@ -626,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 18:51:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2024-12-05 18:14:35 +0000"
@@ -677,6 +720,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-05 18:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 18:51:03 +0000"
     },
     "done": true
   },

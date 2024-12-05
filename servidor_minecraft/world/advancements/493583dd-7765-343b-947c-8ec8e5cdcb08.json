@@ -363,6 +363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 18:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 06:25:02 +0000"
@@ -474,6 +480,12 @@
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-05 06:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2024-12-05 18:54:21 +0000"
     },
     "done": true
   },
