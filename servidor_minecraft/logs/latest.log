@@ -454,3 +454,15 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [17:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> v baja ajjajajajaja
 [17:27:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> que capo
 [17:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> re down, me cotnagio el tito
+[17:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was slain by Zoro
+[17:37:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was not rescued in time
+[17:37:59] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[17:37:59] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[17:38:01] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[17:38:01] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[17:38:01] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[17:38:01] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[17:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[17:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[17:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[17:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
