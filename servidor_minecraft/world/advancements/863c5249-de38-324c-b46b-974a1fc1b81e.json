@@ -115,6 +115,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 06:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2024-12-05 06:09:38 +0000"
@@ -265,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-05 06:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-05 06:09:43 +0000"
@@ -393,6 +405,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-05 06:46:22 +0000",
       "apple": "2024-12-05 06:28:33 +0000"
     },
     "done": false
@@ -481,6 +494,12 @@
     },
     "done": true
   },
+  "hbm:root": {
+    "criteria": {
+      "crafting_table": "2024-12-05 07:03:12 +0000"
+    },
+    "done": true
+  },
   "nocubessrparmory:advsrparmoryroot": {
     "criteria": {
       "advsrparmoryroot": "2024-12-05 04:09:52 +0000"
@@ -514,6 +533,12 @@
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2024-12-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-05 07:03:12 +0000"
     },
     "done": true
   },
