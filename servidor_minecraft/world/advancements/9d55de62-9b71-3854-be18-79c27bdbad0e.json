@@ -22,5 +22,11 @@
       "advparasitesurvivalroot": "2024-12-05 02:01:14 +0000"
     },
     "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-05 04:03:11 +0000"
+    },
+    "done": true
   }
 }
