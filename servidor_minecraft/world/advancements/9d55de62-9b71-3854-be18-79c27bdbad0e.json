@@ -544,6 +544,7 @@
     "criteria": {
       "forest": "2024-12-05 06:28:44 +0000",
       "forest_hills": "2024-12-05 06:47:30 +0000",
+      "savanna": "2024-12-05 07:29:14 +0000",
       "taiga": "2024-12-05 02:01:13 +0000",
       "river": "2024-12-05 06:28:40 +0000"
     },
@@ -678,6 +679,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-05 06:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-05 07:29:18 +0000"
     },
     "done": true
   },

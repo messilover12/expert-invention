@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-05 07:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 07:12:13 +0000"
@@ -287,6 +293,18 @@
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-12-05 07:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-05 07:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2024-12-05 07:09:39 +0000"
@@ -296,6 +314,18 @@
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 07:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 07:26:00 +0000"
     },
     "done": true
   },
@@ -377,6 +407,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 06:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-05 07:30:04 +0000"
     },
     "done": true
   },
@@ -530,6 +566,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-05 07:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-05 07:30:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-05 06:27:22 +0000"
@@ -605,6 +653,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-05 06:27:41 +0000",
+      "forest_hills": "2024-12-05 07:28:16 +0000",
+      "savanna": "2024-12-05 07:29:13 +0000",
       "plains": "2024-12-05 06:27:58 +0000",
       "taiga": "2024-12-05 04:09:52 +0000",
       "river": "2024-12-05 07:05:53 +0000"
@@ -836,6 +886,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2024-12-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 07:26:00 +0000"
     },
     "done": true
   },
