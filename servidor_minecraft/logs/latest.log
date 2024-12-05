@@ -1,268 +1,268 @@
-[03:50:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:50:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:50:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:50:18] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[03:50:18] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[03:50:18] [main/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods for mods
-[03:50:18] [main/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods/1.12.2 for mods
-[03:50:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:50:18] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:50:18] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[03:50:18] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
-[03:50:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:50:18] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:50:18] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[03:50:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:50:18] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:50:18] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:50:18] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
-[03:50:18] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[03:50:18] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[03:50:18] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
-[03:50:18] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.3.28.jar
-[03:50:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:50:18] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[03:50:19] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/expert-invention/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
-[03:50:19] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[03:50:19] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[03:50:19] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[03:50:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:50:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:50:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:50:19] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[03:50:19] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[03:50:19] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[03:50:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[03:50:20] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@47f08b81
-[03:50:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:50:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:50:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:50:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:50:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:50:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:50:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
-[03:50:21] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
-[03:50:21] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
-[03:50:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
-[03:50:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
-[03:50:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
-[03:50:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
-[03:50:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
-[03:50:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
-[03:50:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
-[03:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:50:24] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[03:50:24] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:50:24] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:50:24] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:50:24] [Server thread/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods for mods
-[03:50:24] [Server thread/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods/1.12.2 for mods
-[03:50:24] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
-[03:50:25] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
-[03:50:25] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
-[03:50:25] [Server thread/WARN] [FML]: Mod hardcorerevival is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0
-[03:50:26] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
-[03:50:26] [Server thread/INFO] [FML]: Disabling mod mobdismemberment it is client side only.
-[03:50:26] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
-[03:50:26] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.3.28
-[03:50:26] [Server thread/INFO] [FML]: Disabling mod dshuds it is client side only.
-[03:50:26] [Server thread/INFO] [FML]: Forge Mod Loader has identified 65 mods to load
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for collective: assets/collective/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for drplibrary: assets/drplibrary/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for drpcmmaarg: assets/drpcmmaarg/lang/en_us.lang
-[03:50:26] [Server thread/WARN] [FML]: Missing English translation for drpcmlocks: assets/drpcmlocks/lang/en_us.lang
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file MathParser.org-mXparser-4.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file MobDismemberment-1.12.2-7.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file VEB-04.03.1971-1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:26] [Server thread/INFO] [FML]: FML has found a non-mod file DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:50:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, otgcore, obfuscate, movillages, advanced_darkness, antiqueatlas, appleskin, bibliocraft, biomesoplenty, chameleon, clumps, collective, conarm, extendedrenderer, coroutil, configmod, creativecore, dsurround, dynamictrees, dynamictreesbop, enhancedvisuals, familiarfauna, fastleafdecay, firstaid, forgelin, gottschcore, hardcorerevival, hbm, ichunutil, inventorysorter, inventorytweaks, jei, mantle, mcwfences, minetraps, testdummy, mysticbows, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, progressivebosses, reccomplex, rustic, srparasites, storagedrawers, tabula, tconstruct, travelersbackpack, variedcommodities, voicechat, drplibrary, drpcmmaarg, drpcmguis, drpcmlocks, drpmedieval, drpcmblueprints, drpcore, jade, backportedstuff, orelib] at CLIENT
-[03:50:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, otgcore, obfuscate, movillages, advanced_darkness, antiqueatlas, appleskin, bibliocraft, biomesoplenty, chameleon, clumps, collective, conarm, extendedrenderer, coroutil, configmod, creativecore, dsurround, dynamictrees, dynamictreesbop, enhancedvisuals, familiarfauna, fastleafdecay, firstaid, forgelin, gottschcore, hardcorerevival, hbm, ichunutil, inventorysorter, inventorytweaks, jei, mantle, mcwfences, minetraps, testdummy, mysticbows, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, progressivebosses, reccomplex, rustic, srparasites, storagedrawers, tabula, tconstruct, travelersbackpack, variedcommodities, voicechat, drplibrary, drpcmmaarg, drpcmguis, drpcmlocks, drpmedieval, drpcmblueprints, drpcore, jade, backportedstuff, orelib] at SERVER
-[03:50:28] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
-[03:50:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
-[03:50:28] [Server thread/INFO] [tconstruct]: Preparing to take over the world
-[03:50:29] [Server thread/INFO] [testdummy]: Please don't hurt me. :S
-[03:50:30] [Server thread/ERROR] [FML]: The mod drplibrary is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.094240.jar, however there is no signature matching that description
-[03:50:30] [Server thread/ERROR] [FML]: The mod drpcmmaarg is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.124036.jar, however there is no signature matching that description
-[03:50:30] [Server thread/ERROR] [FML]: The mod drpcmguis is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.120253.jar, however there is no signature matching that description
-[03:50:30] [Server thread/ERROR] [FML]: The mod drpcmlocks is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.111203.jar, however there is no signature matching that description
-[03:50:30] [Server thread/ERROR] [FML]: The mod drpcmblueprints is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmblueprints-1.12.2-1.2.3.jar, however there is no signature matching that description
-[03:50:30] [Server thread/INFO] [STDOUT]: [net.dark_roleplay.core.testing.skills.SkillRegistries:register:25]: DEBUG SERACH ME
-[03:50:30] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[03:50:30] [Server thread/INFO] [FML]: Found 2062 ObjectHolder annotations
-[03:50:30] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[03:50:30] [Server thread/INFO] [FML]: Found 7 ItemStackHolder annotations
-[03:50:30] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:50:30] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
-[03:50:30] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[03:50:30] [Server thread/INFO] [FML]: [MoVillages] Generated Village Customization Config!
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[03:50:31] [Forge Version Check/INFO] [forge.VersionCheck]: [drpcore] Starting version check at http://dark-roleplay.net/version_files/DarkRoleplayCore.json
-[03:50:32] [Server thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.common.DimensionManager : net/minecraftforge/common/DimensionManager
-[03:50:32] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[03:50:32] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[03:50:32] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[03:50:32] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcstructuregenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcmazegenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawncommand`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawnscript`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:32] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:33] [Server thread/INFO] [firstaid]: First Aid version 1.6.22 starting
-[03:50:33] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Found status: UP_TO_DATE Target: null
-[03:50:33] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[03:50:34] [Server thread/INFO] [hbm]: Searching for new versions...
-[03:50:34] [Server thread/INFO] [hbm]: Found version hbm-1.8.4a-G
-[03:50:34] [Server thread/INFO] [hbm]: Version checker ended.
-[03:50:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hbm`, expected `hbm`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:35] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: OUTDATED Target: 1.12.2-2.4.32
-[03:50:35] [Forge Version Check/INFO] [forge.VersionCheck]: [drpmedieval] Starting version check at https://dark-roleplay.net/files/versions/drpmedieval/drpmedieval-1.12.2.json
-[03:50:35] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[03:50:35] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[03:50:35] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictreesbop] Starting version check at https://github.com/the-realest-stu/DynamicTrees-BOP/blob/master/version_info.json?raw=true
-[03:50:35] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[03:50:35] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:37] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:37] [Server thread/INFO] [firstaid]: Don't worry, the minecraft poison override IS intended.
-[03:50:37] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:38] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:38] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:38] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:38] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:38] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:38] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:38] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:50:38] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[03:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[03:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[03:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[03:50:38] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[03:50:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:50:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[03:50:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:50:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:50:38] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
+[05:43:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[05:43:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[05:43:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[05:43:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[05:43:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[05:43:20] [main/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods for mods
+[05:43:20] [main/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods/1.12.2 for mods
+[05:43:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:43:20] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:43:20] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[05:43:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[05:43:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:43:20] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:43:20] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[05:43:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[05:43:20] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:43:20] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[05:43:20] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[05:43:20] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[05:43:20] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[05:43:20] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
+[05:43:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.3.28.jar
+[05:43:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:43:20] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[05:43:20] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/expert-invention/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
+[05:43:20] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[05:43:20] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[05:43:20] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[05:43:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[05:43:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:43:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[05:43:20] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[05:43:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[05:43:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[05:43:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[05:43:21] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@47f08b81
+[05:43:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[05:43:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[05:43:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[05:43:22] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[05:43:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[05:43:22] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[05:43:22] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[05:43:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
+[05:43:22] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
+[05:43:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
+[05:43:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
+[05:43:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
+[05:43:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
+[05:43:23] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
+[05:43:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
+[05:43:24] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
+[05:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[05:43:25] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[05:43:25] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[05:43:25] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[05:43:25] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[05:43:25] [Server thread/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods for mods
+[05:43:25] [Server thread/INFO] [FML]: Searching /workspaces/expert-invention/servidor_minecraft/./mods/1.12.2 for mods
+[05:43:25] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
+[05:43:25] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[05:43:26] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
+[05:43:26] [Server thread/WARN] [FML]: Mod hardcorerevival is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0
+[05:43:26] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[05:43:26] [Server thread/INFO] [FML]: Disabling mod mobdismemberment it is client side only.
+[05:43:26] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[05:43:27] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.3.28
+[05:43:27] [Server thread/INFO] [FML]: Disabling mod dshuds it is client side only.
+[05:43:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 65 mods to load
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for collective: assets/collective/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for drplibrary: assets/drplibrary/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for drpcmmaarg: assets/drpcmmaarg/lang/en_us.lang
+[05:43:27] [Server thread/WARN] [FML]: Missing English translation for drpcmlocks: assets/drpcmlocks/lang/en_us.lang
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file MathParser.org-mXparser-4.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file MobDismemberment-1.12.2-7.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file VEB-04.03.1971-1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:27] [Server thread/INFO] [FML]: FML has found a non-mod file DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[05:43:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, otgcore, obfuscate, movillages, advanced_darkness, antiqueatlas, appleskin, bibliocraft, biomesoplenty, chameleon, clumps, collective, conarm, extendedrenderer, coroutil, configmod, creativecore, dsurround, dynamictrees, dynamictreesbop, enhancedvisuals, familiarfauna, fastleafdecay, firstaid, forgelin, gottschcore, hardcorerevival, hbm, ichunutil, inventorysorter, inventorytweaks, jei, mantle, mcwfences, minetraps, testdummy, mysticbows, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, progressivebosses, reccomplex, rustic, srparasites, storagedrawers, tabula, tconstruct, travelersbackpack, variedcommodities, voicechat, drplibrary, drpcmmaarg, drpcmguis, drpcmlocks, drpmedieval, drpcmblueprints, drpcore, jade, backportedstuff, orelib] at CLIENT
+[05:43:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, otgcore, obfuscate, movillages, advanced_darkness, antiqueatlas, appleskin, bibliocraft, biomesoplenty, chameleon, clumps, collective, conarm, extendedrenderer, coroutil, configmod, creativecore, dsurround, dynamictrees, dynamictreesbop, enhancedvisuals, familiarfauna, fastleafdecay, firstaid, forgelin, gottschcore, hardcorerevival, hbm, ichunutil, inventorysorter, inventorytweaks, jei, mantle, mcwfences, minetraps, testdummy, mysticbows, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, progressivebosses, reccomplex, rustic, srparasites, storagedrawers, tabula, tconstruct, travelersbackpack, variedcommodities, voicechat, drplibrary, drpcmmaarg, drpcmguis, drpcmlocks, drpmedieval, drpcmblueprints, drpcore, jade, backportedstuff, orelib] at SERVER
+[05:43:28] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[05:43:28] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[05:43:28] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[05:43:30] [Server thread/INFO] [testdummy]: Please don't hurt me. :S
+[05:43:30] [Server thread/ERROR] [FML]: The mod drplibrary is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drplibrary-1.12.2-0.1.3-SNAPSHOT-20190129.094240.jar, however there is no signature matching that description
+[05:43:30] [Server thread/ERROR] [FML]: The mod drpcmmaarg is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmmaarg-1.12.2-0.10.0-SNAPSHOT-20181116.124036.jar, however there is no signature matching that description
+[05:43:30] [Server thread/ERROR] [FML]: The mod drpcmguis is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmguis-1.12.2-0.0.1-SNAPSHOT-20181125.120253.jar, however there is no signature matching that description
+[05:43:30] [Server thread/ERROR] [FML]: The mod drpcmlocks is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmlocks-1.12.2-1.0.0-SNAPSHOT-20181126.111203.jar, however there is no signature matching that description
+[05:43:31] [Server thread/ERROR] [FML]: The mod drpcmblueprints is expecting signature 893c317856cf6819b3a8381c5664e4b06df7d1cc for source drpcmblueprints-1.12.2-1.2.3.jar, however there is no signature matching that description
+[05:43:31] [Server thread/INFO] [STDOUT]: [net.dark_roleplay.core.testing.skills.SkillRegistries:register:25]: DEBUG SERACH ME
+[05:43:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[05:43:31] [Server thread/INFO] [FML]: Found 2062 ObjectHolder annotations
+[05:43:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[05:43:31] [Server thread/INFO] [FML]: Found 7 ItemStackHolder annotations
+[05:43:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[05:43:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[05:43:31] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[05:43:31] [Server thread/INFO] [FML]: [MoVillages] Generated Village Customization Config!
+[05:43:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[05:43:31] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[05:43:32] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[05:43:32] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictreesbop] Starting version check at https://github.com/the-realest-stu/DynamicTrees-BOP/blob/master/version_info.json?raw=true
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+[05:43:33] [Server thread/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.common.DimensionManager : net/minecraftforge/common/DimensionManager
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[05:43:33] [Forge Version Check/INFO] [forge.VersionCheck]: [drpcore] Starting version check at http://dark-roleplay.net/version_files/DarkRoleplayCore.json
+[05:43:33] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[05:43:33] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[05:43:33] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcstructuregenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcmazegenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawncommand`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawnscript`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:33] [Server thread/INFO] [firstaid]: First Aid version 1.6.22 starting
+[05:43:34] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[05:43:34] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: OUTDATED Target: 1.12.2-2.4.32
+[05:43:34] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
+[05:43:35] [Forge Version Check/INFO] [forge.VersionCheck]: [fastleafdecay] Found status: UP_TO_DATE Target: null
+[05:43:35] [Forge Version Check/INFO] [forge.VersionCheck]: [drpmedieval] Starting version check at https://dark-roleplay.net/files/versions/drpmedieval/drpmedieval-1.12.2.json
+[05:43:35] [Server thread/INFO] [hbm]: Searching for new versions...
+[05:43:35] [Server thread/INFO] [hbm]: Found version hbm-1.8.4a-G
+[05:43:35] [Server thread/INFO] [hbm]: Version checker ended.
+[05:43:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hbm`, expected `hbm`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[05:43:36] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:37] [Server thread/INFO] [firstaid]: Don't worry, the minecraft poison override IS intended.
+[05:43:37] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:38] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:38] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:38] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:38] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:38] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:38] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:38] [Server thread/INFO] [FML]: Injecting itemstacks
+[05:43:38] [Server thread/INFO] [FML]: Itemstack injection complete
+[05:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[05:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[05:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[05:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[05:43:38] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[05:43:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:43:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[05:43:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:43:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:43:39] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
 com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -277,7 +277,7 @@ com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[03:50:38] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
+[05:43:39] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
 com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -292,7 +292,7 @@ com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[03:50:38] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[05:43:39] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -313,7 +313,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[03:50:38] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[05:43:39] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -328,267 +328,162 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[03:50:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[03:50:38] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1384]: Memory usage before: 1186409384
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_lanthanium@32767 = 1xitem.ingot_lanthanium@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_ra226@32767 = 1xitem.ingot_ra226@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_sr90@32767 = 1xitem.ingot_sr90@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_dineutronium@32767 = 1xitem.ingot_dineutronium@0
-[03:50:38] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_asbestos@32767 = 1xitem.ingot_asbestos@0
-[03:50:38] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1389]: Memory usage after: 1533291192
-[03:50:38] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:doesArrayContain:1410]: On Recipe Register
-[03:50:38] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:38] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:39] [Server thread/INFO] [voicechat]: Compatibility version 15
-[03:50:39] [Server thread/INFO] [voicechat]: Loading plugins
-[03:50:39] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
-[03:50:39] [Server thread/INFO] [voicechat]: Loaded 0 plugin(s)
-[03:50:39] [Server thread/INFO] [voicechat]: Initializing plugins
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
-[03:50:39] [Server thread/INFO] [voicechat]: Initialized 0 plugin(s)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
-[03:50:39] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
-[03:50:39] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:50:39] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:50:40] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
-[03:50:41] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 956.202147 ms
-[03:50:42] [Server thread/INFO] [GottschCore]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
-[03:50:42] [Server thread/INFO] [STDOUT]: [com.hbm.handler.crt.NTMCraftTweaker:applyPostInitActions:17]: CraftTweakerAPI not found
-[03:50:42] [Server thread/INFO] [iChunUtil]: =============================================================
-[03:50:42] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
-[03:50:42] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
-[03:50:42] [Server thread/INFO] [iChunUtil]: =============================================================
-[03:50:42] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[03:50:42] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[03:50:42] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 65 mods
-[03:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[03:50:42] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[03:50:43] [Server thread/INFO] [FML]: Applying holder lookups
-[03:50:43] [Server thread/INFO] [FML]: Holder lookups applied
-[03:50:43] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@78a293c1)
-[03:50:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 794 advancements
-[03:50:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
-[03:50:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
-[03:50:44] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[03:50:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@78a293c1)
-[03:50:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
-[03:50:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
-[03:50:44] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[03:50:44] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[03:50:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@78a293c1)
-[03:50:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
-[03:50:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
-[03:50:44] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[03:50:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[03:50:45] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
-[03:50:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 1%
-[03:50:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
-[03:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.900s)! For help, type "help" or "?"
-[03:50:46] [Server thread/WARN] [voicechat]: Running in offline mode - Voice chat encryption is not secure!
-[03:50:46] [VoiceChatServerThread/INFO] [voicechat]: Server started at port 24454
-[03:50:47] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[03:50:47] [Server thread/INFO] [FML]: Unloading dimension 1
-[03:50:47] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:51:31] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[03:52:22] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[03:52:22] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.4.32,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[03:52:22] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:22] [Netty Epoll Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
-Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Alecio lost connection: Server Mod rejections:
-Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alecio left the game
-[03:52:22] [Server thread/INFO] [voicechat]: Disconnecting client Alecio
-[03:52:43] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:52:43] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 75 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,mts@19.0.0,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.4.32,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[03:52:43] [Netty Epoll Server IO #5/INFO] [FML]: Rejecting connection CLIENT: Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:43] [Netty Epoll Server IO #5/ERROR] [FML]: Network Disconnect: Server Mod rejections:
-Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zoro lost connection: Server Mod rejections:
-Simple Voice Chat: Requires version 1.12.2-2.3.28 but client has 1.12.2-2.4.32.
-[03:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro left the game
-[03:52:43] [Server thread/INFO] [voicechat]: Disconnecting client Zoro
-[03:56:03] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[03:56:03] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 72 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[03:56:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:56:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zoro[/100.116.168.51:61436] logged in with entity id 498 at (19.924927729485166, 93.0, 255.76339859517682)
-[03:56:06] [Server thread/INFO] [dsurround]: Player [Zoro] connected with Dynamic Surroundings 3.6.1.0
-[03:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro joined the game
-[03:56:06] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Zoro
-[03:56:06] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Zoro
-[03:56:13] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of Zoro (15)
-[03:56:13] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to Zoro
-[03:56:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
-[03:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Survival Mode]
-[03:57:16] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:57:16] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[03:57:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:57:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Alecio[/100.93.159.3:51755] logged in with entity id 20614 at (23.5, 66.0, 252.5)
-[03:57:19] [Server thread/INFO] [dsurround]: Player [Alecio] connected with Dynamic Surroundings 3.6.1.0
-[03:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alecio joined the game
-[03:57:19] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Alecio
-[03:57:19] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Alecio
-[03:57:22] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of Alecio (15)
-[03:57:22] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to Alecio
-[03:57:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player f6c891a2-83b2-3fd0-ab62-044dcad1ba41
-[03:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set the time to 1000]
-[03:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> che ale
-[03:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> tas?
-[04:00:24] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[04:00:24] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:00:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:00:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thiago_roldan3[/100.124.191.91:63919] logged in with entity id 74076 at (20.5, 68.0, 252.5)
-[04:00:27] [Server thread/INFO] [dsurround]: Player [thiago_roldan3] connected with Dynamic Surroundings 3.6.1.0
-[04:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 joined the game
-[04:00:27] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player thiago_roldan3
-[04:00:27] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player thiago_roldan3
-[04:00:31] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:00:31] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:00:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set the time to 1000]
-[04:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> gogogog
-[04:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was slain by Alecio
-[04:09:10] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:09:10] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> mute
-[04:09:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
-[04:09:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
-[04:09:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:09:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:09:44] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[04:09:44] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:09:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:09:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: waza[/100.121.102.100:61549] logged in with entity id 237326 at (22.5, 80.0, 258.5)
-[04:09:52] [Server thread/INFO] [dsurround]: Player [waza] connected with Dynamic Surroundings 3.6.1.0
-[04:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza joined the game
-[04:09:52] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player waza
-[04:09:52] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player waza
-[04:09:55] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of waza (15)
-[04:09:55] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to waza
-[04:10:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: waza lost connection: Disconnected
-[04:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza left the game
-[04:10:31] [Server thread/INFO] [voicechat]: Disconnecting client waza
-[04:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Alecio
-[04:13:34] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[04:13:34] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:13:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:13:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: waza[/100.121.102.100:61693] logged in with entity id 304364 at (22.5, 80.0, 258.5)
-[04:13:41] [Server thread/INFO] [dsurround]: Player [waza] connected with Dynamic Surroundings 3.6.1.0
-[04:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza joined the game
-[04:13:41] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player waza
-[04:13:41] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player waza
-[04:13:42] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of waza (15)
-[04:13:42] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to waza
-[04:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Adventure Mode]
-[04:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> xq no puedo hablar
-[04:13:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> tamare
-[04:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Adventure Mode]
-[04:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Alecio> no se
-[04:13:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Spectator Mode]
-[04:13:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: waza lost connection: Timed out
-[04:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza left the game
-[04:13:57] [Server thread/INFO] [voicechat]: Disconnecting client waza
-[04:13:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Creative Mode]
-[04:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> xq se ve todo gris
-[04:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set own game mode to Survival Mode]
-[04:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was slain by Alecio
-[04:14:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zoro lost connection: Disconnected
-[04:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro left the game
-[04:14:18] [Server thread/INFO] [voicechat]: Disconnecting client Zoro
-[04:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> aaaaaaaaaaaa
-[04:14:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> ayudaaaaaaaa
-[04:14:36] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[04:14:36] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 72 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> sii
-[04:14:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:14:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zoro[/100.116.168.51:62225] logged in with entity id 321449 at (3.575153366210249, 71.0, 263.26107820730255)
-[04:14:39] [Server thread/INFO] [dsurround]: Player [Zoro] connected with Dynamic Surroundings 3.6.1.0
-[04:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro joined the game
-[04:14:39] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Zoro
-[04:14:39] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Zoro
-[04:14:40] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of Zoro (15)
-[04:14:40] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to Zoro
-[04:14:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
-[04:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> revivi
-[04:14:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> revivi
-[04:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> wnnn
-[04:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> revivi
-[04:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> click rederecho
-[04:15:03] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:15:03] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> prefiero la muerte
-[04:15:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
-[04:15:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
-[04:15:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:15:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:15:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Set own game mode to Spectator Mode]
-[04:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> me cague
-[04:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> xd
-[04:15:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thiago_roldan3 lost connection: Disconnected
-[04:15:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 left the game
-[04:15:39] [Server thread/INFO] [voicechat]: Disconnecting client thiago_roldan3
-[04:15:52] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[04:15:52] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:15:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:15:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thiago_roldan3[/100.124.191.91:64027] logged in with entity id 342780 at (3.7295450791215137, 71.0, 263.6498616453767)
-[04:15:55] [Server thread/INFO] [dsurround]: Player [thiago_roldan3] connected with Dynamic Surroundings 3.6.1.0
-[04:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 joined the game
-[04:15:55] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player thiago_roldan3
-[04:15:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player thiago_roldan3
-[04:15:59] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:15:59] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:16:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Set the time to 1000]
-[04:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Set own game mode to Creative Mode]
-[04:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Set own game mode to Adventure Mode]
-[04:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> se me re bugueo
-[04:17:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> si
-[04:18:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> pero que tiene que ver con el microfono
-[04:18:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> ttbueno salkgo
-[04:18:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thiago_roldan3 lost connection: Disconnected
-[04:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 left the game
-[04:18:20] [Server thread/INFO] [voicechat]: Disconnecting client thiago_roldan3
-[04:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Set own game mode to Survival Mode]
-[04:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Given Regeneration (ID 10) * 1 to Zoro for 20 seconds]
-[04:21:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Given Regeneration (ID 10) * 1 to Alecio for 20 seconds]
-[04:21:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Given Regeneration (ID 10) * 1 to Zoro for 10 seconds]
-[04:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Alecio: Given Regeneration (ID 10) * 1 to Alecio for 10 seconds]
-[04:22:21] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[04:22:21] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:22:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:22:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thiago_roldan3[/100.124.191.91:64163] logged in with entity id 449880 at (4.003996277736488, 71.0, 263.2969263255474)
-[04:22:24] [Server thread/INFO] [dsurround]: Player [thiago_roldan3] connected with Dynamic Surroundings 3.6.1.0
-[04:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 joined the game
-[04:22:24] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player thiago_roldan3
-[04:22:24] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player thiago_roldan3
-[04:22:30] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:22:30] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:22:32] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thiago_roldan3 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[04:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 left the game
-[04:24:39] [Server thread/INFO] [voicechat]: Disconnecting client thiago_roldan3
-[04:28:55] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[04:28:55] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
-[04:28:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:28:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thiago_roldan3[/100.124.191.91:64565] logged in with entity id 558516 at (4.003996277736488, 71.0, 263.2969263255474)
-[04:28:58] [Server thread/INFO] [dsurround]: Player [thiago_roldan3] connected with Dynamic Surroundings 3.6.1.0
-[04:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 joined the game
-[04:28:58] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player thiago_roldan3
-[04:28:58] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player thiago_roldan3
-[04:29:02] [Netty Epoll Server IO #4/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
-[04:29:02] [Netty Epoll Server IO #4/INFO] [voicechat]: Sent secret to thiago_roldan3
-[04:29:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
-[04:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set the time to 1000]
-[04:29:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thiago_roldan3 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[04:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 left the game
-[04:29:43] [Server thread/INFO] [voicechat]: Disconnecting client thiago_roldan3
+[05:43:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[05:43:39] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1384]: Memory usage before: 1066054296
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_lanthanium@32767 = 1xitem.ingot_lanthanium@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_ra226@32767 = 1xitem.ingot_ra226@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_sr90@32767 = 1xitem.ingot_sr90@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_dineutronium@32767 = 1xitem.ingot_dineutronium@0
+[05:43:39] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_asbestos@32767 = 1xitem.ingot_asbestos@0
+[05:43:39] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1389]: Memory usage after: 1417284928
+[05:43:39] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:doesArrayContain:1410]: On Recipe Register
+[05:43:39] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:39] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:40] [Server thread/INFO] [voicechat]: Compatibility version 15
+[05:43:40] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[05:43:40] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[05:43:40] [Server thread/INFO] [voicechat]: Loading plugins
+[05:43:40] [Server thread/INFO] [voicechat]: Loaded 0 plugin(s)
+[05:43:40] [Server thread/INFO] [voicechat]: Initializing plugins
+[05:43:40] [Server thread/INFO] [voicechat]: Initialized 0 plugin(s)
+[05:43:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[05:43:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[05:43:40] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[05:43:41] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 977.0207 ms
+[05:43:42] [Server thread/INFO] [GottschCore]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+[05:43:42] [Server thread/INFO] [STDOUT]: [com.hbm.handler.crt.NTMCraftTweaker:applyPostInitActions:17]: CraftTweakerAPI not found
+[05:43:42] [Server thread/INFO] [iChunUtil]: =============================================================
+[05:43:42] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[05:43:42] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[05:43:42] [Server thread/INFO] [iChunUtil]: =============================================================
+[05:43:42] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[05:43:42] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[05:43:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 65 mods
+[05:43:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[05:43:43] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[05:43:44] [Server thread/INFO] [FML]: Applying holder lookups
+[05:43:44] [Server thread/INFO] [FML]: Holder lookups applied
+[05:43:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2516e112)
+[05:43:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 794 advancements
+[05:43:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[05:43:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[05:43:44] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[05:43:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2516e112)
+[05:43:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[05:43:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[05:43:44] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[05:43:44] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[05:43:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2516e112)
+[05:43:44] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[05:43:44] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[05:43:44] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[05:43:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[05:43:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[05:43:46] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[05:43:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
+[05:43:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.923s)! For help, type "help" or "?"
+[05:43:47] [Server thread/WARN] [voicechat]: Running in offline mode - Voice chat encryption is not secure!
+[05:43:47] [VoiceChatServerThread/INFO] [voicechat]: Server started at port 24454
+[05:43:47] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[05:43:47] [Server thread/INFO] [FML]: Unloading dimension 1
+[05:43:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:44:22] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[05:44:22] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 72 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[05:44:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:44:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zoro[/100.116.168.51:65265] logged in with entity id 448 at (7.7623429521340945, 80.0, 253.95634435472957)
+[05:44:26] [Server thread/INFO] [dsurround]: Player [Zoro] connected with Dynamic Surroundings 3.6.1.0
+[05:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro joined the game
+[05:44:26] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Zoro
+[05:44:26] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Zoro
+[05:44:26] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[05:44:26] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[05:44:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[05:44:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:44:40] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[05:44:40] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[05:44:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:44:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: waza[/100.121.102.100:62494] logged in with entity id 4278 at (22.5, 80.0, 258.5)
+[05:44:46] [Server thread/INFO] [dsurround]: Player [waza] connected with Dynamic Surroundings 3.6.1.0
+[05:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza joined the game
+[05:44:46] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player waza
+[05:44:46] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player waza
+[05:44:56] [Netty Epoll Server IO #4/INFO] [voicechat]: Received secret request of waza (15)
+[05:44:56] [Netty Epoll Server IO #4/INFO] [voicechat]: Sent secret to waza
+[05:45:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
+[05:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> a cuanto va
+[05:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> salite del dc
+[05:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> apreta la v
+[05:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> settigns
+[05:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> apreta la m
+[05:46:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> para el desmute
+[05:53:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set the time to 1000]
+[05:56:46] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[05:56:46] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[05:56:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:56:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thiago_roldan3[/100.124.191.91:50861] logged in with entity id 211991 at (8.28913793020426, 76.0, 262.7541346323522)
+[05:56:50] [Server thread/INFO] [dsurround]: Player [thiago_roldan3] connected with Dynamic Surroundings 3.6.1.0
+[05:56:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 joined the game
+[05:56:50] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player thiago_roldan3
+[05:56:50] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player thiago_roldan3
+[05:56:56] [Netty Epoll Server IO #6/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[05:56:56] [Netty Epoll Server IO #6/INFO] [voicechat]: Sent secret to thiago_roldan3
+[05:56:59] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[05:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> tira tp
+[05:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Given Regeneration (ID 10) * 1 to Zoro for 60 seconds]
+[05:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> no hay tp xd
+[05:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> mira a los lados
+[05:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> como que no chucha
+[05:57:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> y nos ves los nick
+[05:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was shot by Skeleton
+[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> ayuda
+[05:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> revivime
+[05:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was shot by Skeleton
+[05:59:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was not rescued in time
+[05:59:11] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[05:59:11] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[05:59:11] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[05:59:11] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[05:59:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 9d55de62-9b71-3854-be18-79c27bdbad0e timed out
+[05:59:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player Zoro
+[05:59:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to Zoro
+[05:59:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[06:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was not rescued in time
+[06:00:13] [Netty Epoll Server IO #6/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[06:00:13] [Netty Epoll Server IO #6/INFO] [voicechat]: Sent secret to thiago_roldan3
+[06:00:14] [Netty Epoll Server IO #6/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[06:00:14] [Netty Epoll Server IO #6/INFO] [voicechat]: Sent secret to thiago_roldan3
+[06:00:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
+[06:00:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
+[06:00:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
+[06:00:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[06:01:27] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: srpevolution setphase
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.dhanantry.scapeandrunparasites.network.SRPCommandEvolution.func_184881_a(SRPCommandEvolution.java:223) ~[SRPCommandEvolution.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[06:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zoro: Set the time to 1000]
