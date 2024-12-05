@@ -1245,3 +1245,40 @@ java.lang.ArrayIndexOutOfBoundsException: 1
 [07:29:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [07:29:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 32] in dimension 0 (overworld) while populating chunk [-8, 32], causing cascading worldgen lag.
 [07:29:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 22] in dimension 0 (overworld) while populating chunk [-28, 23], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 13] in dimension 0 (overworld) while populating chunk [-28, 14], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-29, 13] in dimension 0 (overworld) while populating chunk [-28, 13], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-29, 12] in dimension 0 (overworld) while populating chunk [-29, 13], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-30, 12] in dimension 0 (overworld) while populating chunk [-29, 12], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-30, 11] in dimension 0 (overworld) while populating chunk [-29, 12], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 12] in dimension 0 (overworld) while populating chunk [-28, 14], causing cascading worldgen lag.
+[07:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:33:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-29, 10] in dimension 0 (overworld) while populating chunk [-28, 10], causing cascading worldgen lag.
+[07:33:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[07:39:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[07:39:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[07:39:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: waza lost connection: Timed out
+[07:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza left the game
+[07:39:27] [Server thread/INFO] [voicechat]: Disconnecting client waza
+[07:42:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thiago_roldan3 lost connection: Disconnected
+[07:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 left the game
+[07:42:00] [Server thread/INFO] [voicechat]: Disconnecting client thiago_roldan3
+[07:42:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zoro lost connection: Disconnected
+[07:42:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro left the game
+[07:42:02] [Server thread/INFO] [voicechat]: Disconnecting client Zoro
+[07:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[07:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[07:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[07:42:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
