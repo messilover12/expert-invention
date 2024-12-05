@@ -11,16 +11,16 @@
     },
     "done": true
   },
-  "nocubessrpsurvival:advparasitesurvivalroot": {
-    "criteria": {
-      "advparasitesurvivalroot": "2024-12-05 02:01:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga": "2024-12-05 02:01:13 +0000"
     },
     "done": false
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-12-05 02:01:14 +0000"
+    },
+    "done": true
   }
 }
