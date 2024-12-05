@@ -1629,3 +1629,196 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:13:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
 [19:13:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
 [19:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza was shot by Skeleton
+[19:21:25] [Netty Epoll Server IO #2/INFO] [voicechat]: Received secret request of waza (15)
+[19:21:25] [Netty Epoll Server IO #2/INFO] [voicechat]: Sent secret to waza
+[19:21:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[19:21:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[19:21:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[19:21:36] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
+[19:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Zoro
+[19:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:25:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:25:08] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:08] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:09] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:09] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:11] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:11] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:12] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:12] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:14] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:14] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:15] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:15] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:17] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:17] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:25:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:25:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:18] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:18] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:18] [Netty Epoll Server IO #7/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:18] [Netty Epoll Server IO #7/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was killed by magic
+[19:25:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: papucarnicero lost connection: Timed out
+[19:25:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero left the game
+[19:25:38] [Server thread/INFO] [voicechat]: Disconnecting client papucarnicero
+[19:25:48] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:25:48] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[19:25:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:25:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: papucarnicero[/100.108.249.47:56605] logged in with entity id 3402912 at (2.300000011920929, 70.0, 268.6924591427445)
+[19:25:51] [Server thread/INFO] [dsurround]: Player [papucarnicero] connected with Dynamic Surroundings 3.6.1.0
+[19:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero joined the game
+[19:25:51] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player papucarnicero
+[19:25:51] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player papucarnicero
+[19:25:52] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:25:52] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:25:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Adapted Longarms
+[19:26:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:26:07] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:26:07] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:26:07] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:26:07] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:26:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:26:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:26:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> revivime}
+[19:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> isma
+[19:26:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> al lado del horno
+[19:26:36] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:26:36] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Rupter
+[19:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:26:43] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:26:43] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:26:43] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:26:43] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:26:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Rupter
+[19:26:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 9d55de62-9b71-3854-be18-79c27bdbad0e timed out
+[19:26:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player Zoro
+[19:26:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to Zoro
+[19:26:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[19:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> alto spawkill
+[19:26:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:26:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:26:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:27:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <papucarnicero> ayuden es uno debil
+[19:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:27:47] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:27:47] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:27:48] [Netty Epoll Server IO #0/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:27:48] [Netty Epoll Server IO #0/INFO] [voicechat]: Sent secret to papucarnicero
+[19:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Rupter
+[19:27:57] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:27:57] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:27:57] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: papucarnicero lost connection: Timed out
+[19:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero left the game
+[19:28:10] [Server thread/INFO] [voicechat]: Disconnecting client papucarnicero
+[19:28:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zoro lost connection: Disconnected
+[19:28:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro left the game
+[19:28:18] [Server thread/INFO] [voicechat]: Disconnecting client Zoro
+[19:28:18] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:28:18] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 74 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,spartanshields@1.5.5,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.5.3,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[19:28:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:28:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: papucarnicero[/100.108.249.47:56607] logged in with entity id 3452657 at (2.6856864659138524, 70.5625, 268.94742965993726)
+[19:28:24] [Server thread/INFO] [dsurround]: Player [papucarnicero] connected with Dynamic Surroundings 3.6.1.0
+[19:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero joined the game
+[19:28:24] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player papucarnicero
+[19:28:24] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player papucarnicero
+[19:28:25] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:25] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:33] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:28:33] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 72 mods : inventorysorter@1.13.3+57,tabula@7.1.0,extendedrenderer@v1.0,dynamictreesbop@1.12.2-9999.9999.9999z,creativecoredummy@1.0.0,configmod@v1.0,mobdismemberment@7.0.0,jei@4.16.1.1013,drpcore@1.12.2-0.4.7,bibliocraft@2.4.6,ivtoolkit@1.3.3-1.12,drpmedieval@1.12.2-0.3.6,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,enhancedvisuals@1.3.0,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,conarm@1.2.5.10,forgelin@1.8.4,familiarfauna@1.0.11,inventorytweaks@1.63+release.109.220f184,progressivebosses@1.5.4,backportedstuff@1.12.2-v1.0.1,minetraps@1.0.4,ichunutil@7.2.2,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,jeresources@0.9.2.60,firstaid@1.6.22,mysticbows@1.1,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,testdummy@1.12,orelib@3.6.0.1,dsurround@3.6.1.0,antiqueatlas@4.6.3,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,drpcmlocks@1.12.2-1.0.1,dshuds@3.6.0.0,voicechat@1.12.2-2.3.28,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2444,jade@0.1.0,creativecore@1.10.0,drplibrary@1.12.2-0.1.3-SNAPSHOT,mcwfences@1.0.0,reccomplex@1.4.8.5,rustic@1.1.7,drpcmmaarg@1.12.2-0.10.0-SNAPSHOT,mantle@1.12-1.3.3.55,collective@3.0,otgcore@1.12.2-v9.4,storagedrawers@5.5.2,hardcorerevival@1.2.0,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,coroutil@1.12.1-1.2.37,srparasites@1.9.21,appleskin@1.0.14,antiqueatlasoverlay@1.2,advanced_darkness@1.5,fastleafdecay@v14,dynamictrees@1.12.2-0.9.29,movillages@1.5.4,drpcmblueprints@1.12.2-1.2.3,drpcmguis@1.12.2-0.0.2-SNAPSHOT
+[19:28:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:28:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:28:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zoro[/100.116.168.51:56128] logged in with entity id 3457516 at (0.75362847361488, 70.0, 271.56018114537716)
+[19:28:36] [Server thread/INFO] [dsurround]: Player [Zoro] connected with Dynamic Surroundings 3.6.1.0
+[19:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro joined the game
+[19:28:36] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Zoro
+[19:28:36] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Zoro
+[19:28:39] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:28:39] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:28:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[19:28:41] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:41] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:42] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:42] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:45] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:45] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:47] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:47] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:48] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:48] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:49] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:28:49] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> yo voto
+[19:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <papucarnicero> ayudaaaaaaaaaaaaa
+[19:28:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:28:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:28:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> x reiniciar
+[19:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was not rescued in time
+[19:28:55] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:28:55] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:28:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:28:56] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:28:56] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:28:58] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> ya es tonteta
+[19:29:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 9d55de62-9b71-3854-be18-79c27bdbad0e timed out
+[19:29:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player Zoro
+[19:29:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to Zoro
+[19:29:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[19:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> lit es re hard
+[19:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> yo y el santi votamo por reiniciar
+[19:29:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Zoro moved wrongly!
+[19:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Zoro
+[19:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was slain by Adapted Longarms
+[19:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:29:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:29:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:29:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:29:44] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:29:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:29:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:29:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was slain by Adapted Longarms
+[19:30:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was not rescued in time
+[19:30:19] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:30:19] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:30:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:30:20] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:30:20] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:30:24] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:30:24] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:30:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 9d55de62-9b71-3854-be18-79c27bdbad0e timed out
+[19:30:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player Zoro
+[19:30:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to Zoro
+[19:30:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[19:30:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:30:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:30:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero
+[19:30:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 1367dec8-b83b-3933-9431-00c649782350
+[19:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was not rescued in time
+[19:30:38] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:30:38] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:30:39] [Netty Epoll Server IO #1/INFO] [voicechat]: Received secret request of papucarnicero (15)
+[19:30:39] [Netty Epoll Server IO #1/INFO] [voicechat]: Sent secret to papucarnicero
+[19:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was slain by Adapted Longarms
+[19:30:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: papucarnicero was killed by magic
+[19:30:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was not rescued in time
+[19:30:46] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:30:46] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:30:47] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
+[19:30:47] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
+[19:30:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 1367dec8-b83b-3933-9431-00c649782350 timed out
+[19:30:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player papucarnicero
+[19:30:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to papucarnicero

@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 19:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 06:20:29 +0000"
@@ -345,6 +351,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-05 06:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 19:28:36 +0000"
     },
     "done": true
   },
@@ -471,6 +483,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2024-12-05 06:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 19:28:36 +0000"
     },
     "done": true
   },
@@ -743,6 +761,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 19:28:36 +0000"
+    },
+    "done": true
+  },
   "nocubessrpsurvival:advparasitesurvivalroot": {
     "criteria": {
       "advparasitesurvivalroot": "2024-12-05 02:01:14 +0000"
@@ -779,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 19:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-05 06:29:24 +0000"
@@ -794,6 +824,12 @@
   "hbm:root": {
     "criteria": {
       "crafting_table": "2024-12-05 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 19:28:36 +0000"
     },
     "done": true
   },
