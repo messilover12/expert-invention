@@ -1014,3 +1014,108 @@ java.lang.ArrayIndexOutOfBoundsException: 1
 [07:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> ahi vengo, es que solo se cura con vendas
 [07:00:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> nno con comida
 [07:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> a
+[07:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> lauta
+[07:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> tamos
+[07:06:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> tas en el pueblo
+[07:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza gave his life to the coal mines.
+[07:07:53] [Netty Epoll Server IO #4/INFO] [voicechat]: Received secret request of waza (15)
+[07:07:53] [Netty Epoll Server IO #4/INFO] [voicechat]: Sent secret to waza
+[07:07:57] [Netty Epoll Server IO #4/INFO] [voicechat]: Received secret request of waza (15)
+[07:07:57] [Netty Epoll Server IO #4/INFO] [voicechat]: Sent secret to waza
+[07:08:00] [Netty Epoll Server IO #4/INFO] [voicechat]: Received secret request of waza (15)
+[07:08:00] [Netty Epoll Server IO #4/INFO] [voicechat]: Sent secret to waza
+[07:08:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 863c5249-de38-324c-b46b-974a1fc1b81e timed out
+[07:08:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player waza
+[07:08:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to waza
+[07:08:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 863c5249-de38-324c-b46b-974a1fc1b81e
+[07:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza has made the advancement [Ice Bucket Challenge]
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-23, 5] in dimension 0 (overworld) while populating chunk [-23, 6], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 5] in dimension 0 (overworld) while populating chunk [-23, 5], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-23, 4] in dimension 0 (overworld) while populating chunk [-23, 5], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 4] in dimension 0 (overworld) while populating chunk [-23, 5], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 4] in dimension 0 (overworld) while populating chunk [-24, 4], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 3] in dimension 0 (overworld) while populating chunk [-24, 4], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 3] in dimension 0 (overworld) while populating chunk [-25, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 3] in dimension 0 (overworld) while populating chunk [-26, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 2] in dimension 0 (overworld) while populating chunk [-27, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 2] in dimension 0 (overworld) while populating chunk [-27, 2], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 3] in dimension 0 (overworld) while populating chunk [-27, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-29, 2] in dimension 0 (overworld) while populating chunk [-28, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 2] in dimension 0 (overworld) while populating chunk [-25, 3], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-23, 3] in dimension 0 (overworld) while populating chunk [-24, 4], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 3] in dimension 0 (overworld) while populating chunk [-24, 4], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-23, 23] in dimension 0 (overworld) while populating chunk [-23, 24], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 23] in dimension 0 (overworld) while populating chunk [-23, 23], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 22] in dimension 0 (overworld) while populating chunk [-24, 23], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 22] in dimension 0 (overworld) while populating chunk [-24, 22], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 21] in dimension 0 (overworld) while populating chunk [-24, 22], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 21] in dimension 0 (overworld) while populating chunk [-25, 21], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 20] in dimension 0 (overworld) while populating chunk [-25, 21], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 20] in dimension 0 (overworld) while populating chunk [-26, 20], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 19] in dimension 0 (overworld) while populating chunk [-26, 20], causing cascading worldgen lag.
+[07:12:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 19] in dimension 0 (overworld) while populating chunk [-27, 19], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-28, 18] in dimension 0 (overworld) while populating chunk [-27, 19], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-23, 22] in dimension 0 (overworld) while populating chunk [-23, 24], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 6] in dimension 0 (overworld) while populating chunk [-23, 7], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 5] in dimension 0 (overworld) while populating chunk [-24, 6], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 4] in dimension 0 (overworld) while populating chunk [-25, 5], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 5] in dimension 0 (overworld) while populating chunk [-26, 4], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 4] in dimension 0 (overworld) while populating chunk [-26, 5], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 7] in dimension 0 (overworld) while populating chunk [-23, 8], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 6] in dimension 0 (overworld) while populating chunk [-24, 7], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 18] in dimension 0 (overworld) while populating chunk [-23, 18], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 17] in dimension 0 (overworld) while populating chunk [-24, 18], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 17] in dimension 0 (overworld) while populating chunk [-24, 17], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 16] in dimension 0 (overworld) while populating chunk [-24, 17], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 16] in dimension 0 (overworld) while populating chunk [-24, 17], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 16] in dimension 0 (overworld) while populating chunk [-25, 16], causing cascading worldgen lag.
+[07:12:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:22] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-26, 15] in dimension 0 (overworld) while populating chunk [-25, 16], causing cascading worldgen lag.
+[07:12:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:22] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-27, 15] in dimension 0 (overworld) while populating chunk [-26, 15], causing cascading worldgen lag.
+[07:12:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:22] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 8] in dimension 0 (overworld) while populating chunk [-23, 9], causing cascading worldgen lag.
+[07:12:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:22] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-25, 7] in dimension 0 (overworld) while populating chunk [-24, 8], causing cascading worldgen lag.
+[07:12:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> muchacho
+[07:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> onde fueron
