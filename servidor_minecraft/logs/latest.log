@@ -585,3 +585,104 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [17:54:06] [Netty Epoll Server IO #3/INFO] [voicechat]: Received secret request of Zoro (15)
 [17:54:06] [Netty Epoll Server IO #3/INFO] [voicechat]: Sent secret to Zoro
 [17:54:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 9d55de62-9b71-3854-be18-79c27bdbad0e
+[18:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 gave his life to the coal mines.
+[18:02:32] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:02:32] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:02:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
+[18:02:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
+[18:02:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:02:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[18:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> apreta la n
+[18:02:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> tas mute
+[18:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 gave his life to the coal mines.
+[18:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> revivan mierda
+[18:07:37] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:07:37] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:07:40] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:07:40] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:07:43] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:07:43] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:07:46] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:07:46] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:07:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
+[18:07:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
+[18:07:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:07:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[18:07:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> 6
+[18:07:49] [Netty Epoll Server IO #5/INFO] [voicechat]: Received secret request of thiago_roldan3 (15)
+[18:07:49] [Netty Epoll Server IO #5/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:08:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Player 493583dd-7765-343b-947c-8ec8e5cdcb08 timed out
+[18:08:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Reconnecting player thiago_roldan3
+[18:08:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Sent secret to thiago_roldan3
+[18:08:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: Successfully authenticated player 493583dd-7765-343b-947c-8ec8e5cdcb08
+[18:08:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zoro> mute tit
+[18:09:18] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 35] in dimension 0 (overworld) while populating chunk [-10, 35], causing cascading worldgen lag.
+[18:09:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:18] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 36] in dimension 0 (overworld) while populating chunk [-9, 35], causing cascading worldgen lag.
+[18:09:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:28] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-30, 36] in dimension 0 (overworld) while populating chunk [-30, 35], causing cascading worldgen lag.
+[18:09:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:31] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-31, 29] in dimension 0 (overworld) while populating chunk [-31, 30], causing cascading worldgen lag.
+[18:09:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[18:09:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-32, 22] in dimension 0 (overworld) while populating chunk [-32, 23], causing cascading worldgen lag.
+[18:09:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-32, 21] in dimension 0 (overworld) while populating chunk [-32, 22], causing cascading worldgen lag.
+[18:09:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-32, 20] in dimension 0 (overworld) while populating chunk [-32, 21], causing cascading worldgen lag.
+[18:09:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-33, 21] in dimension 0 (overworld) while populating chunk [-32, 22], causing cascading worldgen lag.
+[18:09:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-33, 23] in dimension 0 (overworld) while populating chunk [-33, 24], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-34, 23] in dimension 0 (overworld) while populating chunk [-33, 24], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-33, 22] in dimension 0 (overworld) while populating chunk [-33, 24], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-34, 22] in dimension 0 (overworld) while populating chunk [-33, 22], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-34, 21] in dimension 0 (overworld) while populating chunk [-33, 22], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-34, 22] in dimension 0 (overworld) while populating chunk [-33, 24], causing cascading worldgen lag.
+[18:09:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-35, 29] in dimension 0 (overworld) while populating chunk [-34, 29], causing cascading worldgen lag.
+[18:09:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-35, 28] in dimension 0 (overworld) while populating chunk [-34, 29], causing cascading worldgen lag.
+[18:09:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 28] in dimension 0 (overworld) while populating chunk [-35, 28], causing cascading worldgen lag.
+[18:09:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:46] [Server thread/INFO] [antiqueatlas]: Created new marker #4"gui.antiqueatlas.marker.village"@(-699, 549)
+[18:09:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 29] in dimension 0 (overworld) while populating chunk [-35, 30], causing cascading worldgen lag.
+[18:09:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 27] in dimension 0 (overworld) while populating chunk [-35, 26], causing cascading worldgen lag.
+[18:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 26] in dimension 0 (overworld) while populating chunk [-35, 26], causing cascading worldgen lag.
+[18:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 34] in dimension 0 (overworld) while populating chunk [-35, 35], causing cascading worldgen lag.
+[18:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-36, 33] in dimension 0 (overworld) while populating chunk [-36, 34], causing cascading worldgen lag.
+[18:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:53] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-37, 34] in dimension 0 (overworld) while populating chunk [-36, 35], causing cascading worldgen lag.
+[18:09:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:53] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-37, 35] in dimension 0 (overworld) while populating chunk [-36, 35], causing cascading worldgen lag.
+[18:09:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-38, 36] in dimension 0 (overworld) while populating chunk [-37, 36], causing cascading worldgen lag.
+[18:09:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:59] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[18:09:59] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 43] in dimension 0 (overworld) while populating chunk [-24, 42], causing cascading worldgen lag.
+[18:09:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:09:59] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-24, 44] in dimension 0 (overworld) while populating chunk [-24, 42], causing cascading worldgen lag.
+[18:09:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:10:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-39, 29] in dimension 0 (overworld) while populating chunk [-38, 29], causing cascading worldgen lag.
+[18:10:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:10:01] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-39, 40] in dimension 0 (overworld) while populating chunk [-38, 41], causing cascading worldgen lag.
+[18:10:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:10:03] [Server thread/INFO] [antiqueatlas]: Created new marker #5"gui.antiqueatlas.marker.village"@(-747, 309)
+[18:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zoro was slain by Assimilated Human
+[18:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thiago_roldan3 was slain by Assimilated Human
+[18:10:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-41, 27] in dimension 0 (overworld) while populating chunk [-40, 29], causing cascading worldgen lag.
+[18:10:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:10:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-41, 28] in dimension 0 (overworld) while populating chunk [-40, 29], causing cascading worldgen lag.
+[18:10:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thiago_roldan3> ta laggg
+[18:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <waza> uy
