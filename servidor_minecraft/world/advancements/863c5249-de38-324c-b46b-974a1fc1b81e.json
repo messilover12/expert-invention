@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "hbm:achradpoison": {
+    "criteria": {
+      "impossible": "2024-12-05 18:48:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2024-12-05 06:27:22 +0000"
