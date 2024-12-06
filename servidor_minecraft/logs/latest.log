@@ -556,3 +556,10 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [02:45:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: waza lost connection: Timed out
 [02:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: waza left the game
 [02:45:47] [Server thread/INFO] [voicechat]: Disconnecting client waza
+[02:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:53:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:53:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
