@@ -1,43 +1,43 @@
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.api.materials.Material:214] Thu Dec 05 05:43:40 UTC 2024
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: jungle
-|- Type: wood
-|- Items: 3
-|   |- 1xtile.leaves@3
-|   |- 1xtile.log@3
-|   |- 1xtile.wood@3
-
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: birch
-|- Type: wood
-|- Items: 3
-|   |- 1xtile.leaves@2
-|   |- 1xtile.log@2
-|   |- 1xtile.wood@2
-
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: spruce
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.api.materials.Material:214] Thu Dec 05 17:20:21 UTC 2024
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: spruce
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@1
 |   |- 1xtile.log@1
 |   |- 1xtile.wood@1
 
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: dark_oak
-|- Type: wood
-|- Items: 3
-|   |- 1xtile.leaves@1
-|   |- 1xtile.log@1
-|   |- 1xtile.wood@5
-
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: acacia
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: acacia
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@0
 |   |- 1xtile.log@0
 |   |- 1xtile.wood@4
 
-[05:43:40][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: oak
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: oak
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@0
 |   |- 1xtile.log@0
 |   |- 1xtile.wood@0
+
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: jungle
+|- Type: wood
+|- Items: 3
+|   |- 1xtile.leaves@3
+|   |- 1xtile.log@3
+|   |- 1xtile.wood@3
+
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: dark_oak
+|- Type: wood
+|- Items: 3
+|   |- 1xtile.leaves@1
+|   |- 1xtile.log@1
+|   |- 1xtile.wood@5
+
+[17:20:21][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: birch
+|- Type: wood
+|- Items: 3
+|   |- 1xtile.leaves@2
+|   |- 1xtile.log@2
+|   |- 1xtile.wood@2
 
